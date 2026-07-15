@@ -21,30 +21,6 @@ LeetCode/
 
 Solutions are organized by language and follow the corresponding LeetCode problem structure.
 
-## Topics Covered
-
-- Arrays
-- Strings
-- Hash Tables
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search
-- Two Pointers
-- Sliding Window
-- Recursion
-- Backtracking
-- Dynamic Programming
-- Greedy Algorithms
-- Graphs
-- Sorting
-- SQL
-  - Joins
-  - Aggregate Functions
-  - Subqueries
-  - Window Functions
-
 ## Notes
 
 - Each solution is written with readability and efficiency in mind.
